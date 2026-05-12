@@ -1,1 +1,52 @@
+# Bus Ticket Booking Portal
 
+A web-based bus ticket booking application built as a lab final project. The platform allows users to browse routes, enter passenger details, and complete a ticket booking workflow through a simple and user-friendly interface.
+
+## Live Demo
+
+Try the project here:
+
+[Live Demo](PASTE_YOUR_LINK_HERE)
+
+---
+
+## Features
+
+- Route and bus selection
+- Passenger information handling
+- Multi-step booking workflow
+- Booking confirmation process
+- Clean and intuitive interface
+
+---
+
+## Project Overview
+
+This project was built to explore web application workflows and practical problem-solving through a real-world booking system.
+
+The focus was on:
+- Designing a smooth booking experience
+- Organising booking and passenger information
+- Building a structured user flow
+- Improving UI clarity and usability
+
+---
+
+## Tech Stack
+
+- Web-based frontend
+- Interactive UI workflows
+- Backend/data handling concepts
+- Built using Emergent
+
+---
+
+## Screenshots
+
+
+
+---
+
+## Purpose
+
+Built as a lab final project to gain hands-on experience with building functional web applications and designing practical user workflows.
