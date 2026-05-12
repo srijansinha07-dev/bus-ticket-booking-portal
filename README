@@ -1,52 +1,97 @@
 # Bus Ticket Booking Portal
 
-A web-based bus ticket booking application built as a lab final project. The platform allows users to browse routes, enter passenger details, and complete a ticket booking workflow through a simple and user-friendly interface.
+A web-based bus ticket booking platform built as a lab final project. The application simulates a complete booking experience — from selecting routes and seats to passenger verification, payment simulation, and booking confirmation.
 
 ## Live Demo
 
 Try the project here:
 
-[Live Demo](PASTE_YOUR_LINK_HERE)
+[Launch Bus Ticket Portal]https://bus-compass.preview.emergentagent.com
 
 ---
 
 ## Features
 
-- Route and bus selection
-- Passenger information handling
+### Ticket Search
+- Select departure and destination cities
+- Choose travel date
+- Search available buses based on route
+
+### Bus Selection
+- Browse multiple bus options
+- View timings, pricing, seat availability, and travel duration
+
+### Seat Booking
+- Interactive seat selection interface
+- Real-time seat availability simulation
+- Booking summary with total fare calculation
+
+### Passenger Information
+- Passenger detail form
+- Booking summary sidebar
 - Multi-step booking workflow
-- Booking confirmation process
-- Clean and intuitive interface
 
----
+### Verification & Payment
+- Human verification step
+- OTP-based booking simulation
+- Payment confirmation workflow
 
-## Project Overview
-
-This project was built to explore web application workflows and practical problem-solving through a real-world booking system.
-
-The focus was on:
-- Designing a smooth booking experience
-- Organising booking and passenger information
-- Building a structured user flow
-- Improving UI clarity and usability
-
----
-
-## Tech Stack
-
-- Web-based frontend
-- Interactive UI workflows
-- Backend/data handling concepts
-- Built using Emergent
+### Final Confirmation
+- Ticket confirmation page
+- Booking summary with generated ticket details
 
 ---
 
 ## Screenshots
 
+### Homepage
+![Homepage](homepage.png.png)
 
+### Available Buses
+![Available Buses](availbus.png.png)
+
+### Seat Selection
+![Seat Selection](seat.png.png)
+
+### Passenger Details
+![Passenger Details](details.png.png)
+
+### Human Verification
+![Human Verification](verification.png.png)
+
+### OTP Verification
+![OTP Verification](otp.png.png)
+
+### Payment
+![Payment](payment.png.png)
+
+### Booking Confirmation
+![Booking Confirmation](confirmation.png.png)
 
 ---
 
-## Purpose
+## Project Purpose
 
-Built as a lab final project to gain hands-on experience with building functional web applications and designing practical user workflows.
+This project was built as a lab final submission to explore practical web application workflows through a real-world use case.
+
+The project helped me understand:
+- Multi-step user workflows
+- Form handling and validation
+- UI/UX design for booking systems
+- State handling across booking stages
+- User interaction and flow design
+
+---
+
+## Tech Stack
+
+- Web-based Frontend
+- Interactive UI Components
+- Booking Workflow Logic
+- Built using Emergent
+
+---
+
+## Notes
+
+This is a student project created for learning and demonstration purposes. Payment, OTP, and booking systems are simulated for educational use.
